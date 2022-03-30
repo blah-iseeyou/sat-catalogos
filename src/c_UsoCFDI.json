@@ -1,0 +1,194 @@
+[
+    {
+      "uso_cfdi": "G01",
+      "descripción": "Adquisición de mercancías.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+    },
+    {
+      "uso_cfdi": "G02",
+      "descripción": "Devoluciones, descuentos o bonificaciones.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626"
+    },
+    {
+      "uso_cfdi": "G03",
+      "descripción": "Gastos en general.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I01",
+      "descripción": "Construcciones.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I02",
+      "descripción": "Mobiliario y equipo de oficina por inversiones.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I03",
+      "descripción": "Equipo de transporte.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I04",
+      "descripción": "Equipo de computo y accesorios.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I05",
+      "descripción": "Dados, troqueles, moldes, matrices y herramental.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I06",
+      "descripción": "Comunicaciones telefónicas.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I07",
+      "descripción": "Comunicaciones satelitales.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "I08",
+      "descripción": "Otra maquinaria y equipo.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626"
+    },
+    {
+      "uso_cfdi": "D01",
+      "descripción": "Honorarios médicos, dentales y gastos hospitalarios.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D02",
+      "descripción": "Gastos médicos por incapacidad o discapacidad.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D03",
+      "descripción": "Gastos funerales.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D04",
+      "descripción": "Donativos.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D05",
+      "descripción": "Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D06",
+      "descripción": "Aportaciones voluntarias al SAR.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D07",
+      "descripción": "Primas por seguros de gastos médicos.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D08",
+      "descripción": "Gastos de transportación escolar obligatoria.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D09",
+      "descripción": "Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "D10",
+      "descripción": "Pagos por servicios educativos (colegiaturas).",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "605, 606, 608, 611, 612, 614, 607, 615, 625"
+    },
+    {
+      "uso_cfdi": "S01",
+      "descripción": "Sin efectos fiscales.",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+      "uso_cfdi": "CP01",
+      "descripción": "Pagos",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": "601, 603, 605, 606, 608, 610, 611, 612, 614, 616, 620, 621, 622, 623, 624, 607, 615, 625, 626"
+    },
+    {
+      "uso_cfdi": "CN01",
+      "descripción": "Nómina",
+      "Aplica para tipo persona": "Sí",
+      "Fecha inicio de vigencia": "2022-01-01T08:00:00.000Z",
+      "Fecha fin de vigencia": null,
+      "Regímen Fiscal Receptor": 605
+    }
+  ]

@@ -1,0 +1,19 @@
+{
+  "name": "catalogos-sat",
+  "version": "1.0.0",
+  "description": "Los catalogos del SAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blah-iseeyou/sat-catalogos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blah-iseeyou/sat-catalogos/issues"
+  },
+  "homepage": "https://github.com/blah-iseeyou/sat-catalogos#readme"
+}

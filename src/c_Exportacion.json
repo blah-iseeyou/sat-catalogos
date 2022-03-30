@@ -1,0 +1,18 @@
+[
+    {
+      "exportacion": "01",
+      "descripción": "No aplica"
+    },
+    {
+      "exportacion": "02",
+      "descripción": "Definitiva con clave A1"
+    },
+    {
+      "exportacion": "03",
+      "descripción": "Temporal"
+    },
+    {
+      "exportacion": "04",
+      "descripción": "Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF"
+    }
+  ]

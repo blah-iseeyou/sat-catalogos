@@ -1,0 +1,135 @@
+[
+    {
+      "regimen_fiscal": 601,
+      "descripción": "General de Ley Personas Morales",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 603,
+      "descripción": "Personas Morales con Fines no Lucrativos",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 605,
+      "descripción": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 606,
+      "descripción": "Arrendamiento",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 607,
+      "descripción": "Régimen de Enajenación o Adquisición de Bienes",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 608,
+      "descripción": "Demás ingresos",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 610,
+      "descripción": "Residentes en el Extranjero sin Establecimiento Permanente en México",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 611,
+      "descripción": "Ingresos por Dividendos (socios y accionistas)",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 612,
+      "descripción": "Personas Físicas con Actividades Empresariales y Profesionales",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 614,
+      "descripción": "Ingresos por intereses",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 615,
+      "descripción": "Régimen de los ingresos por obtención de premios",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 616,
+      "descripción": "Sin obligaciones fiscales",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 620,
+      "descripción": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 621,
+      "descripción": "Incorporación Fiscal",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 622,
+      "descripción": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 623,
+      "descripción": "Opcional para Grupos de Sociedades",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 624,
+      "descripción": "Coordinados",
+      "tipo": "Moral",
+      "Física": "No",
+      "Moral": "Sí"
+    },
+    {
+      "regimen_fiscal": 625,
+      "descripción": "Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "No"
+    },
+    {
+      "regimen_fiscal": 626,
+      "descripción": "Régimen Simplificado de Confianza",
+      "tipo": "Fisica",
+      "Física": "Sí",
+      "Moral": "Sí"
+    }
+  ]

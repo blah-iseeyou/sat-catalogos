@@ -1,0 +1,27 @@
+[
+  {
+    "tipo_comprobante": "I",
+    "descripción": "Ingreso",
+    "valor_maximo": "999999999999999999.999999"
+  },
+  {
+    "tipo_comprobante": "E",
+    "descripción": "Egreso",
+    "valor_maximo": "999999999999999999.999999"
+  },
+  {
+    "tipo_comprobante": "T",
+    "descripción": "Traslado",
+    "valor_maximo": "999999999999999999.999999"
+  },
+  {
+    "tipo_comprobante": "N",
+    "descripción": "Nómina",
+    "valor_maximo": "999999999999999999.999999"
+  },
+  {
+    "tipo_comprobante": "P",
+    "descripción": "Pago",
+    "valor_maximo": "999999999999999999.999999"
+  }
+]
