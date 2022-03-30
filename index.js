@@ -6,7 +6,7 @@ const c_ClaveProdServ = require("./src/c_ClaveProdServ.json")
 
 
 
-module.export = {
+module.exports = {
     c_TipoDeComprobante,
     c_RegimenFiscal,
     c_UsoCFDI,
