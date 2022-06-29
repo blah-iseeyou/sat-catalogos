@@ -1,0 +1,112 @@
+[
+    {
+        "forma_pago": "01",
+        "descripcion": "Efectivo",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "02",
+        "descripcion": "Cheque nominativo",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "03",
+        "descripcion": "Transferencia electrónica de fondos",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "04",
+        "descripcion": "Tarjeta de crédito",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "05",
+        "descripcion": "Monedero electrónico",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "06",
+        "descripcion": "Dinero electrónico",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "08",
+        "descripcion": "Vales de despensa",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "12",
+        "descripcion": "Dación en pago",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "13",
+        "descripcion": "Pago por subrogación",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "14",
+        "descripcion": "Pago por consignación",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "15",
+        "descripcion": "Condonación",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "17",
+        "descripcion": "Compensación",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "23",
+        "descripcion": "Novación",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "24",
+        "descripcion": "Confusión",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "25",
+        "descripcion": "Remisión de deuda",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "26",
+        "descripcion": "Prescripción o caducidad",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "27",
+        "descripcion": "A satisfacción del acreedor",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "28",
+        "descripcion": "Tarjeta de débito",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "29",
+        "descripcion": "Tarjeta de servicios",
+        "bancarizado": "Sí"
+    },
+    {
+        "forma_pago": "30",
+        "descripcion": "Aplicación de anticipos",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "31",
+        "descripcion": "Intermediario pagos",
+        "bancarizado": "No"
+    },
+    {
+        "forma_pago": "99",
+        "descripcion": "Por definir",
+        "bancarizado": "Opcional"
+    }
+]
