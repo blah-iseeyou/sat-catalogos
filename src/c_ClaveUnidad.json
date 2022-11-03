@@ -6576,7 +6576,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "EB",
@@ -8790,7 +8791,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": "g"
+    "simbolo": "g",
+    "primario": true
   },
   {
     "unidad": "GRN",
@@ -9627,7 +9629,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "H88",
@@ -11877,7 +11880,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": "kg"
+    "simbolo": "kg",
+    "primario": true
   },
   {
     "unidad": "KGS",
@@ -12147,7 +12151,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "KTN",
@@ -13254,7 +13259,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": "l"
+    "simbolo": "l",
+    "primario": true
   },
   {
     "unidad": "LUB",
@@ -14469,7 +14475,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": "m"
+    "simbolo": "m",
+    "primario": true
   },
   {
     "unidad": "MTS",
@@ -17457,7 +17464,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "SG",
@@ -17862,7 +17870,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": "t"
+    "simbolo": "t",
+    "primario": true
   },
   {
     "unidad": "TP",
@@ -17871,7 +17880,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "TPI",
@@ -18915,7 +18925,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "XBY",
@@ -20859,7 +20870,8 @@
     "nota": null,
     "fecha_inicio_vigencia": "2022-01-01T08:00:00.000Z",
     "fecha_fin_vigencia": null,
-    "simbolo": null
+    "simbolo": null,
+    "primario": true
   },
   {
     "unidad": "XVA",
